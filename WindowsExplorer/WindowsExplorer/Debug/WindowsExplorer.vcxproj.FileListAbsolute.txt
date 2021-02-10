@@ -1,0 +1,3 @@
+D:\ExplorereProject\WindowsExplorer\WindowsExplorer\Debug\WindowsExplorer.vcxprojAssemblyReference.cache
+D:\ExplorereProject\WindowsExplorer\WindowsExplorer\Debug\WindowsExplorer.MyForm.resources
+D:\ExplorereProject\WindowsExplorer\WindowsExplorer\Debug\WindowsExplorer.vcxproj.GenerateResource.cache
